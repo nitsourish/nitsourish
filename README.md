@@ -3,12 +3,14 @@
 <!--
 **nitsourish/nitsourish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+<h3 align="center">
 - 🔭 I’m currently working on building applications(using Streamlit and FastAPI) around LLM and Time Series Forecasting
 - 🌱 I’m currently learning LLMOps, GenAI
 - 👯 I’m looking to collaborate on LLMOps, MLOps projects
 - 🤔 I’m looking for teaming up in Kaggle competitions
+</h3>
+<p align="justified">
 
 I am currently working with <a href="https://www.telekom.de/">Deutsche (German) Telekom</a>, Berlin as Sr.Data Scientist. I am passionate about using technology to automate tedious tasks and am always excited to tackle new technical challenges. 
 
