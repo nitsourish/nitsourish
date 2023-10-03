@@ -22,17 +22,17 @@ My past experiences working on data science, AI, and software engineering projec
 <h3> Programming </h3>
 <p>
 <img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
-<img src= 'https://img.shields.io/badge/Statistical modeling-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
-<img src="https://img.shields.io/badge/Machine Learning%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src= 'https://img.shields.io/badge/MLOps-007ACC?style=for-the-badge&logo=MLOps&logoColor=white' />
+<img src="https://img.shields.io/badge/AI%20-%23323330.svg?&style=for-the-badge&logo=AI&logoColor=%23F7DF1E"/>
 </p> 
 <h3> Web </h3> 
 <p>
- <img src="https://img.shields.io/badge/Tensorflow%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <img src='https://img.shields.io/badge/Torch-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
- <img src='https://img.shields.io/badge/OpenAI-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
- <img src='https://img.shields.io/badge/Streamlit-%23092E20?style=for-the-badge&logo=django&logoColor=white' />
+ <img src="https://img.shields.io/badge/Tensorflow%20-%2320232a.svg?&style=for-the-badge&logo=Tensorflow&logoColor=%2361DAFB"/>
+ <img src='https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/OpenAI-1572B6?style=for-the-badge&logo=OpenAI&logoColor=white' />
+ <img src='https://img.shields.io/badge/Streamlit-%23092E20?style=for-the-badge&logo=streamlit&logoColor=white' />
  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
- <img src="https://img.shields.io/badge/LLM-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+ <img src="https://img.shields.io/badge/LLM-%23000.svg?style=for-the-badge&logo=llm&logoColor=white" />
 </p>
 
 <hr/>
