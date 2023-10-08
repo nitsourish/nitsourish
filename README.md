@@ -5,8 +5,14 @@ Hi there 👋 I am Sourish
 
 <h3 align="center">
 - 🔭 I’m currently working on building applications(using Streamlit and FastAPI) around LLM and Time Series Forecasting
+</h3> 
+<h3 align="center">
 - 🌱 I’m currently learning LLMOps, GenAI
+</h3> 
+<h3 align="center">
 - 👯 I’m looking to collaborate on LLMOps, MLOps projects
+</h3> 
+<h3 align="center">
 - 🤔 I’m looking for teaming up in Kaggle competitions
 </h3>
 <p align="justified">
