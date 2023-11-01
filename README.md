@@ -46,3 +46,5 @@ My past experiences working on data science, AI, and software engineering projec
 <h2> 📫 Socials </h2>
 <p>
 <a href="https://medium.com/@sourish.syntel" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="sourish-dey">
+<a href="https://www.linkedin.com/in/sourish-dey-03420b1a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-12000E?style=for-the-badge&logo=LinkedIn&logoColor=blue" alt="sourish-dey">
+<a href="https://www.xing.com/profile/Sourish_Dey/cv?expandNeffi=true" target="_blank"><img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=xing&logoColor=green" alt="sourish-dey">
