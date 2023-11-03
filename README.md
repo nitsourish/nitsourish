@@ -31,7 +31,7 @@ My past experiences working on data science, AI, and software engineering projec
 <img src= 'https://img.shields.io/badge/MLOps-007ACC?style=for-the-badge&logo=MLOps&logoColor=white' />
 <img src="https://img.shields.io/badge/AI%20-%23323330.svg?&style=for-the-badge&logo=AI&logoColor=%23F7DF1E"/>
 </p> 
-<h3> Web </h3> 
+<h3> Expertise </h3> 
 <p>
  <img src="https://img.shields.io/badge/Tensorflow%20-%2320232a.svg?&style=for-the-badge&logo=Tensorflow&logoColor=%2361DAFB"/>
  <img src='https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
