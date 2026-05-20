@@ -37,7 +37,7 @@ My past experiences working on data science, AI, and software engineering projec
  <img src='https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
  <img src='https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=LangChain&logoColor=white' />
  <img src='https://img.shields.io/badge/LangGraph-005571?style=for-the-badge&logo=LangGraph&logoColor=white' />
- <img src='https://img.shields.io/badge/PydanticAI-%23092E20?style=for-the-badge&logo=PydanticAI&logoColor=white' />
+ <img src='https://img.shields.io/badge/PydanticAI-%23092E20?style=for-the-badge&logo=Pydantic&logoColor=white' />
  <img src='https://img.shields.io/badge/CrewAI-E34F26?style=for-the-badge&logo=CrewAI&logoColor=white' />
  <img src='https://img.shields.io/badge/RAG-%23000?style=for-the-badge&logo=Pinecone&logoColor=white' />
  <img src='https://img.shields.io/badge/OpenAI-1572B6?style=for-the-badge&logo=OpenAI&logoColor=white' />
