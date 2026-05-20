@@ -17,9 +17,9 @@ Hi there 👋 I am Sourish
 </h3>
 <p align="justified">
 
-I am currently working with <a href="https://www2.centricsoftware.com/"> Centric Software</a>, Berlin as Lead.GenAI Scientist. I am passionate about using technology to automate tedious tasks and am always excited to tackle new technical challenges. 
+I am currently working with <a href="https://www2.centricsoftware.com/"> Centric Software</a>, Berlin as Lead GenAI Scientist. I am passionate about using technology to automate tedious tasks and am always excited to tackle new technical challenges. 
 
-My past experiences working on data science, AI, and software engineering projects at various companies such as DeliveryHero,dunnHumby, CitiCorp,GE, Siemens etc. helped me gain a deep understanding of the field.
+My past experiences working on data science, AI, and software engineering projects at various companies such as DeliveryHero, dunnHumby, CitiCorp, GE, Siemens etc. helped me gain a deep understanding of the field.
 
 </p>
 
