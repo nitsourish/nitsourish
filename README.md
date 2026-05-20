@@ -35,6 +35,11 @@ My past experiences working on data science, AI, and software engineering projec
 <p>
  <img src="https://img.shields.io/badge/Tensorflow%20-%2320232a.svg?&style=for-the-badge&logo=Tensorflow&logoColor=%2361DAFB"/>
  <img src='https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/LangChain-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/LangGraph-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/PydanticAI-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/CrewAI-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
+ <img src='https://img.shields.io/badge/RAG-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white' />
  <img src='https://img.shields.io/badge/OpenAI-1572B6?style=for-the-badge&logo=OpenAI&logoColor=white' />
  <img src='https://img.shields.io/badge/Streamlit-%23092E20?style=for-the-badge&logo=streamlit&logoColor=white' />
  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
